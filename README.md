@@ -1,5 +1,5 @@
 # Alexandre Roa
-<br/> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/azaroa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.z.roa@gmail.com)](mailto:alexandre.z.roa@gmail.com)
+<br/> [![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Roa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/azaroa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.z.roa@gmail.com)](mailto:alexandre.z.roa@gmail.com)
 
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
