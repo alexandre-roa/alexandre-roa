@@ -11,5 +11,9 @@ Sou um FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, CS:GO e seriados no Netflix
  
  In my free time I and watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
+ 
+“You must expect great things of yourself before you can do them.”
+
+― Michael Jordan :basketball:
 
  
