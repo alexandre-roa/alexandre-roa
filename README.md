@@ -11,8 +11,11 @@
 </p>
 
 - 🌱 I’m currently learning <strong>Typescript, React, React-native, NodeJS</strong>
+
 - 🤔 I’m looking for help with <strong>React-native</strong>
+
 - 💬 Ask me about <strong>HTML, CSS, Javascript, React</strong>
+
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Roa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azaroa/)](https://www.linkedin.com/in/azaroa/) [![Gmail Badge](https://img.shields.io/badge/-alexandre.z.roa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.z.roa@gmail.com)](mailto:alexandre.z.roa@gmail.com)
 - ⚡ Fun fact: <strong>Eventually I like to philosophize about life with a beer (🍺).</strong>
  
