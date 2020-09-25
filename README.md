@@ -21,6 +21,9 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandre-roa&show_icons=true" alt="alexandre-roa"/> 
  </p>
+ <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-roa&layout=compact" alt="alexandre-roa"/> 
+</p>
  <br></br><br></br>
  <h3>“You must expect great things of yourself before you can do them.”</h3>
 
