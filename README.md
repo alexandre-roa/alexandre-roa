@@ -2,8 +2,8 @@
 <h2 align="center">Fullstack developer</h3>
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="nodejs" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/></p>
 
 - 🔭 I’m currently working on <strong>ReactJS, React Native, Nodejs and typescript</strong>.
