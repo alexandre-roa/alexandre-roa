@@ -23,16 +23,7 @@
 
 ### Languages and Tools
 <br/>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a
+<a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
   >
@@ -43,18 +34,18 @@
       height="50"
     />
   </a>
-  <a href="https://jestjs.io" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
+      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      alt="typescript"
       width="50"
       height="50"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
+<a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
+      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      alt="react"
       width="50"
       height="50"
     />
@@ -67,6 +58,15 @@
       height="50"
     />
   </a>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="50"
+      height="50"
+    />
+  </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
@@ -75,18 +75,18 @@
       height="50"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-      alt="react"
+      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
       width="50"
       height="50"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://jestjs.io" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+      alt="jest"
       width="50"
       height="50"
     />
