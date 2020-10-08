@@ -9,9 +9,11 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="nodejs" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p>
 
-- 🌱 I’m currently learning <strong>Typescript, React, React-native, NodeJS</strong>
+- 🔭 I’m currently working on <strong>ReactJS, React Native, Nodejs and typescript<strong>.
+ 
+- 🌱 I’m currently learning <strong>PostgrSQL and Mongodb</strong>
 
-- 🤔 I’m looking for help with <strong>React-native</strong>
+- 🤔 I’m looking for help with <strong>SQL and NoSQL</strong>
 
 - 💬 Ask me about <strong>HTML, CSS, Javascript, React</strong>
 
