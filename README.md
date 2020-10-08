@@ -1,11 +1,9 @@
-<h1 align="center">Hi dear 👋</h1>
-
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 <p align="center">
   <a href="#">
     <img align="center" width="280" src="signature.png" />
   </a>
 </p>
-<br></br>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,6 +22,7 @@
 </p>
 
 ### Languages and Tools
+<br/>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank">
     <img
@@ -93,7 +92,6 @@
     />
   </a>
 </p>
-<br></br>
 
 - 🔭 I’m currently working on <strong>ReactJS, React Native, Nodejs and typescript</strong>.
  
