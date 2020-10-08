@@ -22,8 +22,11 @@
 </p>
 
 ### Languages and Tools
+
 <br/>
-<a
+
+<p align="left">
+  <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
   >
@@ -42,14 +45,6 @@
       height="50"
     />
   </a>
-<a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="50"
-      height="50"
-    />
-  </a>
   <a href="https://nodejs.org" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
@@ -58,7 +53,14 @@
       height="50"
     />
   </a>
-<p align="left">
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="50"
+      height="50"
+    />
+  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
@@ -79,6 +81,14 @@
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
+     width="50"
+     height="50"
+    />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="aws"
       width="50"
       height="50"
     />
