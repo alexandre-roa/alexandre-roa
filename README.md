@@ -4,7 +4,7 @@
     <img align="center" width="280" src="signature.png" />
   </a>
 </p>
-
+<br/>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -92,6 +92,7 @@
     />
   </a>
 </p>
+<br/>
 
 - 🔭 I’m currently working on <strong>ReactJS, React Native, Nodejs and typescript</strong>.
  
